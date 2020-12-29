@@ -1,0 +1,11 @@
+{
+  "name": "picinpic",
+  "version": "1.0.0",
+  "description": "An app for using picture in picture functionality, screen_capture api and pictureinpicture api used in this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali",
+  "license": "ISC"
+}
