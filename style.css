@@ -12,3 +12,24 @@ body {
   align-items: center;
   background-color: #e16541;
 }
+
+.button-container {
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 7px;
+  box-shadow: inset 0 20px 4px -19px rgba(255, 255, 255, 0.7);
+}
+
+button {
+  cursor: pointer;
+  outline: none;
+  width: 120px;
+  height: 75px;
+  font-family: 'Hanalei Fill', cursive;
+  font-size: 25px;
+  color: #f00;
+  text-shadow: 0 2px 5px #000;
+  background: linear-gradient(to bottom, #e16541, #f00);
+  border: 2px solid black;
+  border-radius: 7px;
+}
